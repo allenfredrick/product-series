@@ -1,10 +1,7 @@
 # APPLICABILITY TABLE
 
-### APPLICABILITY TABLE
-
-| PRODUCTS           |
-| ------------------ |
 | GE864-QUAD V2      |
+| ------------------ |
 | GE864-QUAD AUTO V2 |
 | GE864-GPS          |
 | GE865-QUAD         |
