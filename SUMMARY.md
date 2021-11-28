@@ -53,6 +53,7 @@
         * [Waiver of Liability](product-series-1/gl865/sim-integration-design-guide/product-and-safety-information/usage-and-disclosure-restrictions/waiver-of-liability.md)
       * [Safety Recommendations](product-series-1/gl865/sim-integration-design-guide/product-and-safety-information/safety-recommendations.md)
     * [Gloassary](product-series-1/gl865/sim-integration-design-guide/gloassary.md)
+    * [Document History](product-series-1/gl865/sim-integration-design-guide/document-history.md)
 * [HE910](product-series-1/he910.md)
 * [LE910](product-series-1/le910.md)
 * [LE915Ax-P](product-series-1/le915ax-p.md)
