@@ -1,0 +1,5 @@
+# Computer Software Copyrights
+
+#### Computer Software Copyrights
+
+Telit and the 3rd Party supplied Software (SW) products, described in this instruction manual may include Telit’s and other 3rd Party’s copyrighted computer programs stored in semiconductor memories or other media. Laws in Italy and other countries reserve to Telit and other 3rd Party SW exclusive rights for copyrighted computer programs, including – but not limited to - the exclusive right to copy or reproduce in any form the copyrighted products. Accordingly, any copyrighted computer programs contained in Telit’s products described in this instruction manual shall not be copied (reverse engineered) or reproduced in any manner without the express written permission of the copyright owner, being Telit or the 3rd Party software supplier. Furthermore, the purchase of Telit products shall not be deemed to grant either directly or by implication, estoppel, or in any other way, any license under the copyrights, patents, or patent applications of Telit or other 3rd Party supplied SW, except for the normal non-exclusive, royalty-free license to use arising by operation of law in the sale of a product.
