@@ -8,8 +8,8 @@
 [audience.md](audience.md)
 {% endcontent-ref %}
 
-{% content-ref url="applicability-table.md" %}
-[applicability-table.md](applicability-table.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="contact-information.md" %}

@@ -29,7 +29,7 @@
     * [Introduction](product-series-1/gl865/sim-integration-design-guide/introduction/README.md)
       * [Scope](product-series-1/gl865/sim-integration-design-guide/introduction/scope.md)
       * [Audience](product-series-1/gl865/sim-integration-design-guide/introduction/audience.md)
-      * [APPLICABILITY TABLE](product-series-1/gl865/sim-integration-design-guide/introduction/applicability-table.md)
+      * [Applicability Table](product-series-1/gl865/sim-integration-design-guide/introduction/applicability-table.md)
       * [Contact Information](product-series-1/gl865/sim-integration-design-guide/introduction/contact-information.md)
       * [Symbol Conventions](product-series-1/gl865/sim-integration-design-guide/introduction/symbol-conventions.md)
       * [Related documents](product-series-1/gl865/sim-integration-design-guide/introduction/related-documents.md)
